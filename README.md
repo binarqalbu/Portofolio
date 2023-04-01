@@ -1,22 +1,22 @@
-# E-LEARNING-APPLICATION-V1.0:
+# Binar Qalbu Cimuema - Personal Portfolio 
 
-dashboard simple pour gestion des course,students,payments...
+Undergraduate college student of computer engineering in University of Indonesia who are interested in data. Have a high motivation to work in the field of data after graduating as a person who is detailed and critical in seeing a problem. I have made several websites using PHP which are related to databases with an API system in them
 
-## lien de vedeo in youtube :
-https://www.youtube.com/watch?v=bDfINmhpzd0
+# Website link :
+http://raffeda.epizy.com
 
-## technologie utiliser
+## Language use
   ### front end :
-  html,css,framework bootstrap .
+  html,css,framework bootstrap.
   ### back end:
-  php,sql server.
+  php, javascript.
+  ### database:
+  mysql.
 
-## les pages du site:
-  ### sign in: 
-  email ,password:
-  ### home: 
-  statistique: nombre des course ,user,students,payments
-  ### students list: 
-  les informations des students: img,username,email...
-  ### payments:
-  les informations de payments:
+## Login (username, password):
+  ### admin: 
+  test, admin
+  ### operasional: 
+  test, operasional
+  ### akuntan: 
+  test, akuntan
